@@ -54,7 +54,5 @@
 
 ## Contact
 
-* LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/gurukumar-patil-582126327/)
-* Email: [your@email.com](mailto:your@email.com)
-
-* Email: [your@email.com](mailto:your@email.com)
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/gurukumar-patil-582126327/)
+* Email: [gurukumargorebal@gmail.com](gurukumargorebal@gmail.com)
