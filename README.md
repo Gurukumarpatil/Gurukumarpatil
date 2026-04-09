@@ -14,7 +14,7 @@
 ## ⚡ About Me
 
 * Building **real-world full-stack + AI applications**
-* Focus: **MERN + NLP-based systems**
+* Focus: **MERN **
 * Currently improving: **System design + scalable backend**
 * Goal: **Production-level projects, not tutorials**
 
@@ -38,12 +38,6 @@
 * CRUD + filtering system
 
 ---
-
-### 🔹 NLP Text to SQL
-
-* Converts natural language → SQL queries
-* Uses basic NLP processing
-* Practical use-case for automation
 
 ---
 
