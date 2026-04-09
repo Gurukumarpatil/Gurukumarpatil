@@ -1,58 +1,90 @@
-# Gurukumar Patil
+<h1 align="center">Hi 👋, I'm Gurukumar Patil</h1>
+<h3 align="center">🚀 Full Stack MERN Developer | AI-Based Application Builder</h3>
 
-🚀 MERN Stack Developer | AI-Based Projects
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420"/>
+</p>
 
-## Tech Stack
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gurukumarpatil&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-* React, Node.js, Express
-* MongoDB, MySQL
-* Python, Machine Learning
+---
 
-## Projects
+## ⚡ About Me
 
-### AI Resume Intelligence Platform
+* Building **real-world full-stack + AI applications**
+* Focus: **MERN + NLP-based systems**
+* Currently improving: **System design + scalable backend**
+* Goal: **Production-level projects, not tutorials**
 
-* ATS score analysis
-* Resume parsing
-* Skill suggestions
+---
 
-### Job Application Tracker
+## 🚀 Featured Projects
 
-* Track job applications and status
+### 🔹 AI Resume Intelligence Platform
 
-### NLP Text to SQL
+* ATS score calculation
+* Resume parsing + keyword extraction
+* Smart improvement suggestions
+* Built using: React, Node.js, MongoDB, Python
 
-* Convert natural language into SQL queries
+---
 
-## Contact
+### 🔹 Job Application Tracker
 
-* LinkedIn: # Gurukumar Patil
+* Track job applications & status
+* Dashboard-based UI
+* CRUD + filtering system
 
-🚀 MERN Stack Developer | AI-Based Projects
+---
 
-## Tech Stack
+### 🔹 NLP Text to SQL
 
-* React, Node.js, Express
-* MongoDB, MySQL
-* Python, Machine Learning
+* Converts natural language → SQL queries
+* Uses basic NLP processing
+* Practical use-case for automation
 
-## Projects
+---
 
-### AI Resume Intelligence Platform
+### 🔹 Expense Tracker App
 
-* ATS score analysis
-* Resume parsing
-* Skill suggestions
+* Track daily spending
+* Clean UI + structured data handling
 
-### Job Application Tracker
+---
 
-* Track job applications and status
+## 🛠️ Tech Stack
 
-### NLP Text to SQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,js,html,css,git,github" />
+</p>
 
-* Convert natural language into SQL queries
+---
 
-## Contact
+## 📊 GitHub Analytics
 
-* LinkedIn: [LinkedIn](https://www.linkedin.com/in/gurukumar-patil-582126327/)
-* Email: [gurukumargorebal@gmail.com](gurukumargorebal@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gurukumarpatil&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurukumarpatil&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* Improving backend architecture
+* Building deployable full-stack apps
+* Writing cleaner, production-ready code
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/gurukumar-patil-582126327/">LinkedIn</a> •
+<a href="mailto:gurukumargorebal@gmail.com">Email</a>
+</p>
+
+
+
