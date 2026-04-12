@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack MERN Developer | AI-Based Application Builder</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="420"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420"/>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ## ⚡ About Me
 
 * Building **real-world full-stack + AI applications**
-* Focus: **MERN**
+* Focus: **MERN **
 * Currently improving: **System design + scalable backend**
 * Goal: **Production-level projects, not tutorials**
 
@@ -24,25 +24,27 @@
 
 ### 🔹 AI Resume Intelligence Platform
 
-* ATS score calculation  
-* Resume parsing + keyword extraction  
-* Smart improvement suggestions  
-* Built using: React, Node.js, MongoDB, Python  
+* ATS score calculation
+* Resume parsing + keyword extraction
+* Smart improvement suggestions
+* Built using: React, Node.js, MongoDB, Python
 
 ---
 
 ### 🔹 Job Application Tracker
 
-* Track job applications & status  
-* Dashboard-based UI  
-* CRUD + filtering system  
+* Track job applications & status
+* Dashboard-based UI
+* CRUD + filtering system
+
+---
 
 ---
 
 ### 🔹 Expense Tracker App
 
-* Track daily spending  
-* Clean UI + structured data handling  
+* Track daily spending
+* Clean UI + structured data handling
 
 ---
 
@@ -65,9 +67,9 @@
 
 ## 🎯 Current Focus
 
-* Improving backend architecture  
-* Building deployable full-stack apps  
-* Writing cleaner, production-ready code  
+* Improving backend architecture
+* Building deployable full-stack apps
+* Writing cleaner, production-ready code
 
 ---
 
