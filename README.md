@@ -16,7 +16,7 @@
 * Building **real-world full-stack + AI applications**
 * Focus: **MERN **
 * Currently improving: **System design + scalable backend**
-* Goal: **Production-level projects, not tutorials**
+* Goal: **Production-level projects**
 
 ---
 
