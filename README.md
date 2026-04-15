@@ -24,25 +24,25 @@
 
 ### 🔹 AI Resume Intelligence Platform
 
-* ATS score calculation
-* Resume parsing + keyword extraction
-* Smart improvement suggestions
-* Built using: React, Node.js, MongoDB, Python
+* ATS score calculation  
+* Resume parsing + keyword extraction  
+* Smart improvement suggestions  
+* Built using: React, Node.js, MongoDB, Python  
 
 ---
 
 ### 🔹 Job Application Tracker
 
-* Track job applications & status
-* Dashboard-based UI
-* CRUD + filtering system
+* Track job applications & status  
+* Dashboard-based UI  
+* CRUD + filtering system  
 
 ---
 
 ### 🔹 Expense Tracker App
 
-* Track daily spending
-* Clean UI + structured data handling
+* Track daily spending  
+* Clean UI + structured data handling  
 
 ---
 
@@ -54,15 +54,11 @@
 
 ---
 
---- ## 📊 GitHub Analytics 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gurukumarpatil&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurukumarpatil&theme=tokyonight&hide_border=true" height="160"/> </p> 
----
-
 ## 🎯 Current Focus
 
-* Improving backend architecture
-* Building deployable full-stack apps
-* Writing cleaner, production-ready code
+* Improving backend architecture  
+* Building deployable full-stack apps  
+* Writing cleaner, production-ready code  
 
 ---
 
