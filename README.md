@@ -39,14 +39,7 @@
 
 ---
 
----
 
-### 🔹 Expense Tracker App
-
-* Track daily spending
-* Clean UI + structured data handling
-
----
 
 ## 🛠️ Tech Stack
 
