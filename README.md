@@ -39,7 +39,14 @@
 
 ---
 
+---
 
+### 🔹 Expense Tracker App
+
+* Track daily spending
+* Clean UI + structured data handling
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -71,4 +78,3 @@
 <a href="https://www.linkedin.com/in/gurukumar-patil-582126327/">LinkedIn</a> •
 <a href="mailto:gurukumargorebal@gmail.com">Email</a>
 </p>
-
