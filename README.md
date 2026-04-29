@@ -1,65 +1,90 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Gurukumar+Patil;Full+Stack+MERN+Developer;AI+%2B+ML+Application+Builder)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Gurukumar+Patil;Full+Stack+MERN+Developer;AI+%2F+ML+Application+Builder" />
 
-**`Full Stack Developer · MERN + AI-powered applications · Bengaluru`**
+### Full Stack Developer · MERN + AI Applications · Bengaluru
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurukumar-patil-582126327/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurukumargorebal@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Gurukumarpatil&style=for-the-badge&color=0e75b6)](https://github.com/Gurukumarpatil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gurukumar-patil-582126327/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:gurukumargorebal@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Gurukumarpatil&style=for-the-badge&color=blue)]()
 
 </div>
 
 ---
 
-```json
-{
-  "role": "Full Stack MERN Developer + AI App Builder",
-  "stack": ["React", "Node.js", "Express", "MongoDB", "Python"],
-  "currently": "Mastering system design & scalable backends",
-  "goal": "Ship production-level, real-world applications",
-  "open_to": "Collaborations, opportunities & open source"
-}
-```
+## 💻 About Me
+
+- Full Stack MERN Developer focused on scalable backend systems  
+- Build AI-powered web applications with real-world use cases  
+- Strong in API design, system architecture, and clean code  
+- Currently learning system design & performance optimization  
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| ⚡ **AI Resume Intelligence** | ATS scoring, resume parsing, keyword extraction & smart suggestions | React · Node.js · MongoDB · Python |
-| 🎬 **Movie Recommender** | Cosine similarity engine + TMDB poster integration | React · Python · Pandas · Node.js |
-| 📋 **Job App Tracker** | Dashboard for tracking applications, status & filtering | MERN · CRUD · Dashboard UI |
+### ⚡ AI Resume Intelligence
+ATS scoring system with resume parsing, keyword extraction & suggestions  
+Stack: React · Node.js · MongoDB · Python  
 
 ---
 
-## 🛠️ Tech Stack
+### 🎬 Movie Recommender System
+Content-based filtering using cosine similarity + TMDB API  
+Stack: React · Python · Pandas · Node.js  
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+---
+
+### 📋 Job Application Tracker
+Track job applications with status, filtering & dashboard  
+Stack: MERN  
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,js,html,css,git" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurukumarpatil&theme=github-dark-blue&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Gurukumarpatil&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gurukumarpatil&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=30" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurukumarpatil&layout=compact&theme=github_dark&hide_border=true&cache_seconds=30" height="160"/>
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- `→` Improving backend architecture for scale and performance
-- `→` Building and deploying production-grade full-stack apps
-- `→` Writing clean, maintainable, well-documented code
-- `→` Exploring deeper ML integration in web applications
+- Designing scalable backend systems  
+- Building production-ready full-stack apps  
+- Writing maintainable and optimized code  
+- Integrating ML models into web apps  
+
+---
+
+## ⚡ What I Bring
+
+- Real-world project experience  
+- Strong problem-solving mindset  
+- Clean architecture + scalable thinking  
+- Fast execution  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/gurukumar-patil-582126327/  
+- Email: gurukumargorebal@gmail.com  
+
+---
+
+<div align="center">
+
+⭐ If you like my work, follow or star my repositories.
+
+</div>
