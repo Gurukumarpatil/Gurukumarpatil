@@ -1,90 +1,83 @@
-<div align="center">
+GitHub profile 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Gurukumar+Patil;Full+Stack+MERN+Developer;AI+%2F+ML+Application+Builder" />
+<h1 align="center">Hi 👋, I'm Gurukumar Patil</h1>
+<h3 align="center">🚀 Full Stack MERN Developer | AI-Based Application Builder</h3>
 
-### Full Stack Developer · MERN + AI Applications · Bengaluru
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gurukumar-patil-582126327/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:gurukumargorebal@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Gurukumarpatil&style=for-the-badge&color=blue)]()
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gurukumarpatil&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 💻 About Me
+## ⚡ About Me
 
-- Full Stack MERN Developer focused on scalable backend systems  
-- Build AI-powered web applications with real-world use cases  
-- Strong in API design, system architecture, and clean code  
-- Currently learning system design & performance optimization  
+* Building **real-world full-stack + AI applications**
+* Focus: **MERN + Machine Learning**
+* Currently improving: **System design + scalable backend**
+* Goal: **Production-level projects**
 
 ---
 
 ## 🚀 Featured Projects
 
-### ⚡ AI Resume Intelligence
-ATS scoring system with resume parsing, keyword extraction & suggestions  
-Stack: React · Node.js · MongoDB · Python  
+### 🔹 AI Resume Intelligence Platform
+
+* ATS score calculation  
+* Resume parsing + keyword extraction  
+* Smart improvement suggestions  
+* Built using: React, Node.js, MongoDB, Python  
 
 ---
 
-### 🎬 Movie Recommender System
-Content-based filtering using cosine similarity + TMDB API  
-Stack: React · Python · Pandas · Node.js  
+### 🔹 Movie Recommendation System
+
+* Content-based movie recommendation engine  
+* Smart similarity algorithm using cosine similarity  
+* Real-time movie search with suggestions  
+* Integrated movie posters using TMDB API  
+* Built using: React, Node.js, Python (ML), Pandas  
 
 ---
 
-### 📋 Job Application Tracker
-Track job applications with status, filtering & dashboard  
-Stack: MERN  
+### 🔹 Job Application Tracker
+
+* Track job applications & status  
+* Dashboard-based UI  
+* CRUD + filtering system  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,js,html,css,git" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,js,html,css,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gurukumarpatil&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=30" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurukumarpatil&layout=compact&theme=github_dark&hide_border=true&cache_seconds=30" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurukumarpatil&theme=github-dark&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Designing scalable backend systems  
-- Building production-ready full-stack apps  
-- Writing maintainable and optimized code  
-- Integrating ML models into web apps  
+* Improving backend architecture  
+* Building deployable full-stack apps  
+* Writing cleaner, production-ready code  
 
 ---
 
-## ⚡ What I Bring
+## 🌐 Connect With Me
 
-- Real-world project experience  
-- Strong problem-solving mindset  
-- Clean architecture + scalable thinking  
-- Fast execution  
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/gurukumar-patil-582126327/  
-- Email: gurukumargorebal@gmail.com  
-
----
-
-<div align="center">
-
-⭐ If you like my work, follow or star my repositories.
-
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/gurukumar-patil-582126327/">LinkedIn</a> •
+<a href="mailto:gurukumargorebal@gmail.com">Email</a>
+</p>
