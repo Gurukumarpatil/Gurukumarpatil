@@ -1,4 +1,4 @@
-GitHub profile 
+ 
 <h1 align="center">Hi 👋, I'm Gurukumar Patil</h1>
 <h3 align="center">🚀 Full Stack MERN Developer | AI-Based Application Builder</h3>
 <p align="center">
