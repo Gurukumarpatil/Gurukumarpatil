@@ -1,5 +1,3 @@
-GitHub profile 2
-
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  GURUKUMAR PATIL — GitHub Profile README       -->
